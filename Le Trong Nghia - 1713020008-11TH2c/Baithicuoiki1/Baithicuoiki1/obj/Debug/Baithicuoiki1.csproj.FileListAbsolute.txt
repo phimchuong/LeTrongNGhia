@@ -1,0 +1,7 @@
+D:\Le Trong Nghia - 1713020008-11TH2c\Baithicuoiki1\Baithicuoiki1\obj\Debug\Baithicuoiki1.csprojResolveAssemblyReference.cache
+D:\Le Trong Nghia - 1713020008-11TH2c\Baithicuoiki1\Baithicuoiki1\obj\Debug\Baithicuoiki1.MainForm.resources
+D:\Le Trong Nghia - 1713020008-11TH2c\Baithicuoiki1\Baithicuoiki1\obj\Debug\Baithicuoiki1.csproj.GenerateResource.Cache
+D:\Le Trong Nghia - 1713020008-11TH2c\Baithicuoiki1\Baithicuoiki1\bin\Debug\Baithicuoiki1.exe
+D:\Le Trong Nghia - 1713020008-11TH2c\Baithicuoiki1\Baithicuoiki1\bin\Debug\Baithicuoiki1.pdb
+D:\Le Trong Nghia - 1713020008-11TH2c\Baithicuoiki1\Baithicuoiki1\obj\Debug\Baithicuoiki1.exe
+D:\Le Trong Nghia - 1713020008-11TH2c\Baithicuoiki1\Baithicuoiki1\obj\Debug\Baithicuoiki1.pdb
